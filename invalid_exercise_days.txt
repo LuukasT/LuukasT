@@ -1,0 +1,10 @@
+01/07/21,running,50
+01/07/21,gym,30
+03/07/21,swimming,60
+04/07/21,gym,45
+05/07/21,cycling,115.50
+06/07/21,swimming,135 min
+06/07/21,gym,something
+06/07/21,walking,180
+09/07/21,running,65??
+10/07/21,gym,60
