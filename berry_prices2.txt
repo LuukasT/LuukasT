@@ -1,0 +1,3 @@
+Berry type,Price per kg
+blueberry:4.6
+raspberry:13.5
