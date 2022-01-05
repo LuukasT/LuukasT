@@ -1,0 +1,13 @@
+Date,Berry type,Amount of picked berries (kg)
+2021-07-20,cloudberry
+2021-07-21,cloudberry,blueberry,strawberry,5
+2021-07-25,strawberry,10
+2021-07-26,crowberry,5
+2021-07-28,blueberry,7.5
+2021-07-29,blueberry,11kg
+2021-08-01,cloudberry,4
+
+
+2021-08-02,cloudberry,2
+blueberry,3
+2021-08-06,strawberry,15

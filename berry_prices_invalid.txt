@@ -1,0 +1,10 @@
+Berry type,Price per kg
+blueberry:8.0 eur/kg
+
+blackcurrant:8.5
+cranberry: 4.0: low price
+raspberry
+strawberry:
+strawberry:6.5
+cloudberry:17.8
+
