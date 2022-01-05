@@ -1,0 +1,7 @@
+Berry type,Price per kg
+blueberry:8.0
+lingonberry:8.5
+cranberry:10.0
+raspberry:16.0
+strawberry:5.0
+cloudberry:20.0
