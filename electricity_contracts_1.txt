@@ -1,0 +1,9 @@
+Contract,cents/kWh,eur/kk,Renewable%
+Electry Basic,4.59,2.90,5.24
+Nucle Clean,3.79,5.5,1.0
+Greeny S,5.99,2.05,100
+Greeny M,5.22,2.50,100
+Greeny L,5.05,5.25,100
+NordicEnergy Smart,6.89,0,55.8
+FossilFree Water,5.79,1.0,100
+FossilFree Wind,6.99,0,100
